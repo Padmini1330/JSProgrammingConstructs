@@ -4,8 +4,6 @@ const lowerNumber = prompt('Enter lower number: ');
 const higherNumber = prompt('Enter higher number: ');
 
 console.log(`The prime numbers between ${lowerNumber} and ${higherNumber} are:`);
-
-
 for (let iIndex = lowerNumber; iIndex <= higherNumber; iIndex++) 
 {
     let flag = 0;
