@@ -2,7 +2,6 @@ const prompt = require('prompt-sync')();
 
 const number = parseInt(prompt('Enter a number to print its prime factors: '));
 let isPrime = 0;
-
 for ( iIndex = 2; iIndex <= number; iIndex++ ) 
 {
     let a = number % iIndex;
