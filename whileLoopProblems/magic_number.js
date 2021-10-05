@@ -26,6 +26,7 @@ while(low <= high)
         }
     }
 }
+
 if (low > high) 
 {
     console.log("Your number is not betAmountween 0 and 100");
