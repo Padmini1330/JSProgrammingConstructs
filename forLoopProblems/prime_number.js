@@ -1,6 +1,7 @@
 const prompt = require('prompt-sync')();
 var number = prompt("Enter a number : ");
 var count = 0;
+
 if (number <= 1) 
     console.log(number + " is not prime number"); 
 else 
