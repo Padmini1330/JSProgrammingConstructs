@@ -1,6 +1,7 @@
 var prompt = require("prompt-sync")();
 let month=prompt('enter the month:');
 let date=prompt('enter the date:');
+
 console.log("month: "+month+" date: "+date);
 if (month == 6 && date < 21) 
     console.log("True");
