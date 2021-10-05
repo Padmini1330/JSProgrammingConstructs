@@ -14,7 +14,6 @@ while(headCount < 11 && tailCount < 11)
         tailCount++;
     }
 }
-
 if(headCount == 11) 
 {
     console.log("Head wins")
