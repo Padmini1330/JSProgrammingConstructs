@@ -19,6 +19,7 @@ while (flag) {
         flag = false;
     }
 }
+
 console.log("Balance Amount  : " + balance);
 console.log("Total Amount Won  : " + winCount);
 console.log("Total Amount Lost : " + loseCount);
