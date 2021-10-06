@@ -4,6 +4,7 @@ function birthMonth()
     count = 0;
     let janCount = 0,febCount = 0,marchCount = 0,aprilCount = 0,mayCount = 0,juneCount = 0,julyCount = 0,augustCount = 0,
         septCount = 0,octCount = 0,novCount = 0,decCount = 0;
+        
     while(true)
     {
         if(count == MAX_COUNT)

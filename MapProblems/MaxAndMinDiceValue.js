@@ -9,6 +9,7 @@ function rollDie()
     let fiveCount = 0;
     let sixCount = 0;
     flag = true;
+    
     while(flag)
     {
         let diceNumber = Math.floor(Math.random() * 6 + 1);
