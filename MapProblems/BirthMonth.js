@@ -11,6 +11,7 @@ function birthMonth()
         {
             break;
         }
+        
         let randomBirthMonth = Math.floor(Math.random() * 12 + 1);
         switch (randomBirthMonth) 
         {
